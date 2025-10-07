@@ -1,0 +1,1 @@
+Developed a Java-based Habit Strength Calculator that enables users to create and track daily or weekly habits, record completions, and measure consistency through a percentage-based strength score, with persistent data storage using file handling and real-time feedback to encourage improvement.
